@@ -3,7 +3,7 @@ My work following the [Angular first app tutorial](https://angular.io/tutorial/f
 
 I put the individual lessons in their own branches:
 
-Lesson 1: [Hello world](https://angular.io/tutorial/first-app/first-app-lesson-01) => lesson-01 branch  
+Lesson 1: [Hello world](https://angular.io/tutorial/first-app/first-app-lesson-01) => [lesson-01](https://github.com/clawson/angular-first-app-tutorial/tree/lesson-01)  
 Lesson 2: [Create home component](https://angular.io/tutorial/first-app/first-app-lesson-02) => lesson-02 branch  
 Lesson 3: [Create housing location component](https://angular.io/tutorial/first-app/first-app-lesson-03) => lesson-03 branch  
 Lesson 4: [Create an interface](https://angular.io/tutorial/first-app/first-app-lesson-04) => lesson-04 branch  
